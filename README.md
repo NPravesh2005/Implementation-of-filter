@@ -1,4 +1,8 @@
 # Implementation-of-filter
+
+### NAME : PRAVESH N
+### REG NO : 212223230154
+
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -22,9 +26,9 @@ Plot the original and filtered image by using matplotlib.pyplot.
 ### Step5
 End the program.
 ## Program:
-```
- Developed By   : PRAVESH N
- Register Number : 212223230154
+```py
+# NAME : PRAVESH N
+# REG NO : 212223230154
 ```
 
 ### 1. Smoothing Filters
